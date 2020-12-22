@@ -1,0 +1,28 @@
+slide2
+그냥 읽기
+slide3
+그냥 imgur api를 다음과 같이 발급 받았다 언급
+slide 4
+android 이식 전에 imgur api를 html, javascript를 이용하여 테스트 하였다고
+설명 및, 좌측은 소스코드이고 구현한 화면이 상단에 있다고 대충설명
+slide 5
+gif 보여줌 or 직접 크롬 이나 internet browser 열어서 시연
+slide 6
+imgur api의 json response임을 설명하고 정상작동함을 언급
+다른 이미지 저장 서버가 필요 없는 편리함이 입증됨
+이후 안드로이드에 기능 이식 할 예정
+slide 7
+대충 UI design의 단계가 이렇고 지금 우리 조의 단계는
+wireframe을 구성하고 있는 단계라 설명
+slide 8
+디자인을 위해서 카카오에서 제공하는 디자인 프로토타입핑 툴인
+ovenapp.io를 이용하였다 설명
+slide 9
+초기에는 러프한 디자인 스케치를 다음과 같이하였다고 대충 설명
+slide 10
+현재까지의 wireframe design은 이렇다고 대충 설명
+slide 11
+backend에서 가장 문제이고 핵심인 이미지변환 api를 시도 중이라고 언급
+stargan을 해보고 있으나 잘안될 경우 php를 사용하는 faceapp php를
+사용할 것이라 설명, 만약 faceapp api를 이용할 경우에는 php로 구현 및
+서버 구축이 필요하다 설명
