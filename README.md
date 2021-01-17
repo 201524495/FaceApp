@@ -1,5 +1,6 @@
 # FaceApp
 
+_PNU CSE 2020 Spring Semester Software Design and Experiment_
 
 자바와 코틀린 언어를 공부하고 안드로이드 스튜디오를 통해 가상 머신을 사용하거나 휴대폰에 직접 어플을 깔아 과제를 진행했다.
 
