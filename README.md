@@ -35,7 +35,7 @@ _PNU CSE 2020 Spring Semester Software Design and Experiment_
 ------------------
 ![android-face-filters](https://user-images.githubusercontent.com/49744580/102895577-47849d80-44a8-11eb-8eee-4b5f39549644.png)
 
-우리가 만든 결과물 ( 눈 갱 ㅈㅅ합니다.)
+우리가 만든 결과물 
 --------------------
 ![앱결과](https://user-images.githubusercontent.com/49744580/102895733-93374700-44a8-11eb-8261-aaa919804ef8.PNG)
 
